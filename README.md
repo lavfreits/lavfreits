@@ -10,7 +10,7 @@ Software Engineer
     
     </a>
     <a href="https://www.twitch.tv/laviniaalima">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantris?style=social">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/lavfreits?style=social">
     </a>
 </div>
 
