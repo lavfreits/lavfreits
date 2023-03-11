@@ -18,7 +18,7 @@ Software Engineer
 
 <div align="right">
      <a href="https://github.com/lavfreits">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavfreits&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
