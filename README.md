@@ -16,16 +16,7 @@ Software Engineer
 
 ---
 
-<div align="right">
-     <a href="https://github.com/lavfreits">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavfreits&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
-        alt="Linguagens mais usadas" align="right">
-    </a>
-</div>
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavfreits&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+     
 
 
 > cv [here](https) 📄
@@ -37,7 +28,8 @@ Software Engineer
 [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/laviniaalima)](https://www.twitch.tv/laviniaalima)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/lavfreits)](https://dev.to/lavfreits)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/lavfreits)](https://gitlab.com/lavfreits)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/21377255/lav%C3%ADnia-lima)](https://pt.stackoverflow.com/users/21377255/lav%C3%ADnia-lima)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/21377255/lavínia-lima)](https://pt.stackoverflow.com/users/21377255/lavínia-lima)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-F6C600?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/lavfreits/)](https://leetcode.com/lavfreits/)
     
  </div>
 
