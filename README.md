@@ -24,6 +24,7 @@ Desenvolvedora Mobile | Flutter Enthusiast
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/lavfreits)](https://gitlab.com/lavfreits)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/21377255/lavínia-lima)](https://pt.stackoverflow.com/users/21377255/lavínia-lima)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-F6C600?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/lavfreits/)](https://leetcode.com/lavfreits/)
+[![LeetCode Badge](https://img.shields.io/badge/-HackerRank-F6C600?style=flat-square&logo=HackerRank&logoColor=white&link=[https://leetcode.com/lavfreits/](https://www.hackerrank.com/llimafreitas))](https://www.hackerrank.com/llimafreitas)
     
  </div>
 
