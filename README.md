@@ -1,25 +1,19 @@
 <h1 align="center"> Lavínia Lima </h1>
 
 <div align="center">
-Software Engineer 
+Desenvolvedora Mobile | Flutter Enthusiast
     
 
 </div>
 
-<div align="center">
-    
-    </a>
-    <a href="https://www.twitch.tv/laviniaalima">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/lavfreits?style=social">
-    </a>
-</div>
+   
 
 ---
+[PT] Desenvolvedora Mobile apaixonada por Flutter, cursando Análise e Desenvolvimento de Sistemas. Experiência na implementação de recursos e funcionalidades em projetos com Flutter. Habilidades em comunicação, análise e adaptação. Em busca de oportunidades de estágio para aplicar e aprimorar minhas habilidades. Vamos conectar e colaborar em projetos emocionantes de aplicativos móveis!
 
+[EN] Passionate Mobile Developer with a focus on Flutter. Currently pursuing a degree in Analysis and Systems Development. Experienced in implementing features and functionalities in Flutter projects. Strong communication, analytical, and adaptability skills. Actively seeking internship opportunities to apply and enhance my skills. Let's connect and collaborate on exciting mobile app projects!
      
 
-
-> cv [here](https) 📄
 
 <div align="center">
 
@@ -43,7 +37,9 @@ Software Engineer
 
  **WORKING ON**
   
- 
+ Resolucoes leetcode em dart
+ resolucoes hackerrrank sql
+ traducao livro sobre dart
 
 ---
     
