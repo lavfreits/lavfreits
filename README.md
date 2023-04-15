@@ -38,9 +38,6 @@ Desenvolvedora Mobile | Flutter Enthusiast
 
  **WORKING ON**
   
- Resolucoes leetcode em dart
- resolucoes hackerrrank sql
- traducao livro sobre dart
 
 ---
     
