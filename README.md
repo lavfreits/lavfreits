@@ -32,13 +32,12 @@ Desenvolvedora Mobile | Flutter Enthusiast
 ----
  
  <div align="left">
-    
- **PROJECTS**
-    
+ 
  
 
  **WORKING ON**
-  
+  https://github.com/lavfreits/flutter-app-tarefas
+  https://github.com/lavfreits/Fintech
 
 ---
     
