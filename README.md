@@ -36,8 +36,8 @@ Desenvolvedora Mobile | Flutter Enthusiast
  
 
  **WORKING ON**
-  https://github.com/lavfreits/flutter-app-tarefas </n>
-  https://github.com/lavfreits/Fintech
+    <p> https://github.com/lavfreits/flutter-app-tarefas </p>
+    <p> https://github.com/lavfreits/Fintech </p>
 
 ---
     
