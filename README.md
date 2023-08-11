@@ -2,9 +2,9 @@
 <div align="center">
 Desenvolvedora
 </div>
-[PT] Desenvolvedora com experiência em desenvolvimento de aplicações web e mobile. Proficiente em tecnologias como Flutter, JavaScript, HTML, CSS e bancos de dados como Oracle SQL. Habilidades em comunicação, análise e resolução de problemas. Busco oportunidades de estágio para aplicar e aprimorar minhas habilidades em desenvolvimento de software. Vamos conectar e colaborar em projetos desafiadores!
+[PT] Desenvolvedora com experiência em desenvolvimento de aplicações mobile. Proficiente em Flutter. Habilidades em comunicação, análise e resolução de problemas. Busco oportunidades para aplicar e aprimorar minhas habilidades em desenvolvimento de software. Vamos conectar e colaborar em projetos desafiadores!
 
-[EN] Developer with experience in web and mobile application development. Proficient in technologies such as Flutter, JavaScript, HTML, CSS, and databases like Oracle SQL. Strong communication, analytical, and problem-solving skills. Seeking internship opportunities to apply and enhance my software development skills. Let's connect and collaborate on challenging projects!
+[EN] Developer with experience mobile application development. Proficient in Flutter. Strong communication, analytical, and problem-solving skills. Seeking opportunities to apply and enhance my software development skills. Let's connect and collaborate on challenging projects!
 
 <div align="center">
 
