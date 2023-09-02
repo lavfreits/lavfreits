@@ -28,7 +28,9 @@ Dev Flutter
  
 
  **WORKING ON**
+ 
 ![Projeto TMDB](https://github.com/lavfreits/tmdb_movies)
+
 ![Projeto Rick and Morty](https://github.com/lavfreits/rick_morty_app)
 
 ---
