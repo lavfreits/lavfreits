@@ -11,7 +11,6 @@ Dev Flutter
 <div align="center">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lavínia-lima-de-freitas/)](https://www.linkedin.com/in/lavínia-lima-de-freitas/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/lavfreits)](https://gitlab.com/lavfreits)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-F6C600?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/lavfreits/)](https://leetcode.com/lavfreits/)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=HackerRank&logoColor=white&link=(https://www.hackerrank.com/llimafreitas))](https://www.hackerrank.com/llimafreitas)
