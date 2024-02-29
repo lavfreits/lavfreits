@@ -6,7 +6,7 @@ Dev Flutter
 
 [PT] Desenvolvedora com experiência em desenvolvimento de aplicações mobile com Flutter. Sinta-se a vontade pra entrar em contato comigo e/ou contribuir com meus projetos.
 
-[EN] Developer with experience mobile application development with Flutter. Feel free to reach me out and/or contributing to my projects.
+[EN] Developer with mobile application development experience. Feel free to reach me out and/or contributing to my projects.
 
 <div align="center">
 
